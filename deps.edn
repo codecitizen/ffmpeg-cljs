@@ -1,0 +1,3 @@
+{:deps
+ {org.clojure/clojurescript {:mvn/version "1.10.339"},
+  org.clojars.c4605/cljs.nodejs.shell {:mvn/version "0.1.0"}}}
